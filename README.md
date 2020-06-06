@@ -1,4 +1,4 @@
-# MHAC
+# AC-Net
 code for the paper of 'Aspect-based Sentiment Analysis Based on Hybrid Multi-Head Attention and Capsule Networks'
 CCL 2019
 how to run:
