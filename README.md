@@ -1,5 +1,5 @@
 # AC-Net
-Source code of our CCL2019 paper on Aspect-Based Sentiment Analysis.
+Source code of our CCL2019 paper on Aspect-Based Sentiment Analysis (ABSA).
 
 ## How to run:
 * Run the XmlToTxt.py to read the original xml corpus file
